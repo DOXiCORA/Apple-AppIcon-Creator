@@ -24,7 +24,7 @@ Python script to generate app icons for iOS, macOS, and watchOS from a base imag
 
    ```bash
    git clone https://github.com/DOXiCORA/Apple-AppIcon-Creator.git
-   cd AppIcon-Creator
+   cd Apple-AppIcon-Creator
    ```
 
 2. Install the required Python package:
@@ -74,3 +74,5 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 ## Acknowledgments
 
 - [Pillow](https://pypi.org/project/Pillow/) for image processing capabilities.
+
+#Apple #AppIcons #iOS #macOS #Python #OpenSource #MobileDevelopment #Design #UI #UX #xcode
